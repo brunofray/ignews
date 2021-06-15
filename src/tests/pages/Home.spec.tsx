@@ -9,7 +9,7 @@ jest.mock('next-auth/client', () => {
     useSession: () => [null, false]
   }
 });
-jest.mock('../../services/stripe')
+jest.mock('../../services/stripe');
 
 describe('Home page', () => {
 
