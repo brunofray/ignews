@@ -7,3 +7,4 @@
 - React
 - Next.JS
 - TypeScript
+- Testes unitários ( jest )
